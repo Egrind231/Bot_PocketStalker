@@ -1,8 +1,8 @@
 {
   "v": 1,
-  "kill": false,
+  "kill": true,
   "blocked": [],
   "exp": "",
-  "msg": "",
-  "sig": "KPWBlYkA2dbUrwFRSHG6LLLkGxuwvewwGMKVqmJB+DQxi9DSB3DwMEex3dsVpmikPg7wnnFMMax7xa5DrFCW/A=="
+  "msg": "проверка",
+  "sig": "DH4C7cy6ynTFVI64ZpIggODZlQTWPyUOxPlRNbQw0HzOLywpSXZPA6CKK9ejKudghkpI+x7A3ayOHK4KbU8qLw=="
 }
