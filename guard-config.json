@@ -1,8 +1,10 @@
 {
   "v": 1,
   "kill": false,
-  "blocked": [],
+  "blocked": [
+    327904
+  ],
   "exp": "",
-  "msg": "",
-  "sig": "tqd3sNXvI/nBR284xR/tk4CFK+VAJW4T1kzaQvgU+xYl/I77M04rKjDKdx7/OApP4Ax4WWp5sowBMIz/LUOegw=="
+  "msg": "Тестирование защиты и удаленное управление",
+  "sig": "YDW4JlIduhLi6j2rRJ/0H7BNVC8QmHdBw4mU5FYLm47C3BuxrP96FBI1fdoSoXDJKNcAftDDzusDsXGhvPaYWA=="
 }
