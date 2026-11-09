@@ -1,8 +1,8 @@
 {
   "v": 1,
-  "kill": false,
+  "kill": true,
   "blocked": [],
   "exp": "",
-  "msg": "",
-  "sig": "6QRu4NOBkf/Q6jtLHTNyEA8dicz/kQQv3bkmQSSs0walBJjo8Sk+wdKuW7Sp7OJgiYyYGSAZ0Uu7rzWJ1yponQ=="
+  "msg": "Тест завершен. Ожидайте обновлений!",
+  "sig": "sRtu4i5PdN7WsO0a0FXAEH9ntK8LDQTDwuyTP6cjYy1hxpGc3lkZy3ZaB0FSk+XwHbh1Z2o6Uh6UUFAl8bVlmg=="
 }
